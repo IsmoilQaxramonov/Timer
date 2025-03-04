@@ -1,0 +1,9 @@
+# Github nima?
+Github - bu opensource (ochiq kodli, ommaviy) va tekin texnologiya ya'ni loyihalarni o'zida jamlangan va ma'lum qiymat asosida
+jamoadoshlar bilan ishlash imkoniyatini yaratuvchi vosita.
+
+# Githubda branchlar
+
+
+
+Githubda ishlatiladigan asosiy buyruqlar (terminal orqali):

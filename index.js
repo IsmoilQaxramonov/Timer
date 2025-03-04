@@ -41,7 +41,7 @@ startBtn.addEventListener("click", function () {
                 seconds--;
             }
             updateSecondomer();
-        }, 1000);
+        }, 1);
     }
 });
 updateSecondomer();
