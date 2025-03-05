@@ -55,7 +55,7 @@ startBtn.addEventListener("click", function () {
       }
 
       updateSecondomer();
-    }, 1);
+    }, 1000);
   }
 });
 
